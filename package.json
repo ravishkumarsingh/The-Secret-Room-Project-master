@@ -1,0 +1,18 @@
+{
+  "name": "secretroom-web-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Server.js",
+  "scripts": {
+    "start": "node Server.js",
+    "debug": "nodemon Server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bari BGF",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "firebase-admin": "11.4.1",
+    "nodemon": "^2.0.22"
+  }
+}

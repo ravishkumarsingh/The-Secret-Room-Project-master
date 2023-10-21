@@ -1,0 +1,8 @@
+node_modules
+backups
+.vscode
+#private/**
+
+package-lock.json
+!private/.gitkeep
+.gitpod.yml
